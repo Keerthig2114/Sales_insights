@@ -57,6 +57,10 @@ Preliminary data exploration and validation were performed in **MySQL Workbench*
 - **Revenue by Markets** – Stacked Bar Chart
 - **Sales Quantity by Markets** – Stacked Bar Chart
 
+## Dashboard Screenshots
+
+![Dashboard Screenshot 1](https://github.com/Keerthig2114/Sales_insights/blob/26a61f94498b298bc2d516899ea2a4924570c328/Dashboard_Screenshot.png)
+
 ---
 ###  Interactivity
 - Page-level filters by market, product, and date
